@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', function() {
     // Define the API endpoint. REPLACE THIS WITH YOUR ACTUAL API GATEWAY INVOKE URL!
-    const API_ENDPOINT = 'https://vmcup986gb.execute-api.us-east-1.amazonaws.com/dev'; // Example: https://5nur6rhsjb.execute-api.us-east-1.amazonaws.com/dev
+    const API_ENDPOINT = 'https://a21f8uktu4.execute-api.us-east-1.amazonaws.com/dev'; // Example: https://5nur6rhsjb.execute-api.us-east-1.amazonaws.com/dev
 
     // Get references to our HTML elements so we can interact with them.
     const calculatorForm = document.getElementById('calculatorForm');
